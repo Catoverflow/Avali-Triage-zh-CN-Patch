@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/avalifriendlyship/parameters/description",
+        "value": "一艘羽族探索舰队舰船，他们好奇地向你发出访问邀请。"
+    }
+]

@@ -1,0 +1,47 @@
+[
+  {
+  "path": "/description",
+  "op": "replace",
+  "value": "在花盆里面是一小丛精心照顾的水晶。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "黄色水晶盆栽"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "真是有趣，似乎有人在精心照顾这些水晶。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "漂亮，但是不如共振晶体有用。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "好闪闪闪。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "贪婪。 这是水晶看上去比我的动力核心更棒。"
+  },
+  {
+  "path": "/humanDescription",
+  "op": "replace",
+  "value": "不管是什么物种，都会觉得这种物质十分迷人。"
+  },
+  {
+  "path": "/hylotlDescription",
+  "op": "replace",
+  "value": "我必须要带点回去。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我们也可以打印出这样的一个水晶盆栽，但如果沉下心来用手来栽培更有‘静’的韵味。"
+  }
+]

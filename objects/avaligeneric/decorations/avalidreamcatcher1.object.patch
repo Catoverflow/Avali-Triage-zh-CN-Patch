@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这个复杂的图案是由线，晶体和羽毛制作而成的。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "追梦者"
+  },
+  {
+  "path": "/apexDescription",
+  "op": "replace",
+  "value": "这是什么原始的装饰。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我希望这些都不是鸟类羽毛。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "他们这个星球上有大蜘蜘蜘蛛。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 原始挂饰，可以发出响声。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "嘿，这看起来就像地球上的捕梦网。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这是什么古雅的装饰。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "在传统中，我们会把丝带，羽毛，水晶和其他饰品编织到网上，这是记录我们生活中发生重大事件的方式"
+  }
+]

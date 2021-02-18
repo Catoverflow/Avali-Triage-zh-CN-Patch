@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族平台"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "羽族设计的平台。"
+  },
+  {
+    "path": "/glitchdescription",
+    "op": "replace",
+    "value": "声明。 羽族设计的平台。"
+  },
+  {
+    "path": "/florandescription",
+    "op": "replace",
+    "value": "地地地板。"
+  }
+]

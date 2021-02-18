@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 宽松的外衣，理想的训练穿着。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "习武外衣"
+  }
+]

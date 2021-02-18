@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，胸部饰品槽^white; 端庄的袖套。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "政要袖套"
+  }
+]

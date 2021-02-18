@@ -1,0 +1,32 @@
+[  
+  {  
+    "op":"replace",
+    "path":"/attack/avali",
+    "value":{  
+      "default":[  
+        "跑吧，懦夫！",
+        "格杀勿论！",
+        "快走！"
+      ]
+    }
+  },
+  {  
+    "op":"replace",
+    "path":"/killedTarget/avali",
+    "value":{  
+      "default":[  
+        "目标已消灭。",
+        "先开枪，后问问题……"
+      ]
+    }
+  },
+  {  
+    "op":"replace",
+    "path":"/lostTarget/avali",
+    "value":{  
+      "default":[  
+        "失去目标。真遗憾。"
+      ]
+    }
+  }
+]

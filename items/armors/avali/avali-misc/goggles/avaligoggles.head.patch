@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一副实用的护目镜"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族护目镜"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 被侮辱？不存在的。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "政要宽裙"
+  }
+]

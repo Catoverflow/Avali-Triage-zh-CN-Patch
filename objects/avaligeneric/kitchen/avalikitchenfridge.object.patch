@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "为什么这种被冰封的种族还需要冰箱？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "冷藏柜"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "看着这些操作按钮，我怀疑也可以用来储存。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我觉得外面比里面更暖和。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "又黑又冷的盒盒盒子，叶族人讨厌它。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "反思。 我们的食物需要防止生锈，而不是防止腐烂。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "看来，‘把冰卖给羽族’这个说法已经被终结了。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这竟然不是用来储藏饮料的,失望。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这些设备可以控制湿度和温度以提供最佳保存环境。"
+  }
+]

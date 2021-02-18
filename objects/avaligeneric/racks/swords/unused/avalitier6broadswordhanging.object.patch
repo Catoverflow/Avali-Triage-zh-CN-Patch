@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这里面展示着羽族长剑。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "武器展示架"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这是一把巨大的剑。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我看得越多，对羽族的了解就越多。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "*兴奋* 对对对对对，这是最棒棒棒的！！！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "自豪。 我们的剑展示出更卓越的工艺。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "对于这个高等种族来讲这个实在是有点太基础了.."
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这种务实的制作符合我的品位。"
+  }
+]

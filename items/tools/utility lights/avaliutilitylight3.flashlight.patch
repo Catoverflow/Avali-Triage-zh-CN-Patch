@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "永不发热的明亮灯具！这一款会发出^red;红色^white;灯光。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族实用灯具"
+  }
+]

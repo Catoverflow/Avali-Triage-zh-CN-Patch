@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "存放你的战利品。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "悬挂式储存器"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "像羽族一样对太空旅行了如指掌，保持供应。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "盒子窝？"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "盒子陷阱！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "讽刺。 这些猎人捉到了一些野生盒子.。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我想这是一个替代的架子。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "把·它·拿·开！！"
+  }
+]

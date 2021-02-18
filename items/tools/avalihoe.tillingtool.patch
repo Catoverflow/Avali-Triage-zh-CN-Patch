@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一个羽族版的经典锄头。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "^orange;羽族锄^white;"
+  }
+]

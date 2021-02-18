@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "如果你携带磁性物品，最好不要坐在上面。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "磁悬浮椅"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "竟然把科学用在这种地方！不过还蛮有趣的。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "希望克鲁西斯的崇拜者没有看到这把椅子，要不然他们会宣布它是邪恶的。"
+  },
+  {
+  "path": "/floranDescription",
+  "op": "replace",
+  "value": "这这这椅子在欺骗叶族人，它没有掉下来!"
+  },
+  {
+  "path": "/glitchDescription",
+  "op": "replace",
+  "value": "窘迫。 这把椅子有强烈的磁场。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "感觉就像我坐在半空中，底下什么都没有！"
+  },
+  {
+  "path": "/humanDescription",
+  "op": "replace",
+  "value": "我要一把这样的椅子。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "位置太小，看来我得抱成一团才能在上面睡觉..."
+  }
+]

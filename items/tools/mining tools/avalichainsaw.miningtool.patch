@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这就是羽族在清伐上的答案...树木一点机会都没有。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "电锯"
+  }
+]

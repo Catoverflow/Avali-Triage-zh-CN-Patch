@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "幽灵的黑色！好吧，没那么可怕，但这斜面的排列方式让你有点不安。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "斜面暗黑插入面板"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "Avali军用级辅助武器。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "PD1 霜冻"
+  }
+]

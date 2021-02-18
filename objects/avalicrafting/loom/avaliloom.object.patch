@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "3D打印机？织布机？不，两者均是。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族纳米织机"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "古代技术和现代科技的融合。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "织机，可以用来打印我的成人旗。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "它前前后后地转转转来转去。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "沉思。我曾做过一段时间的织工。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "经线纬线，哪一条竖着走呢？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "喔！我一定要拿到这样一台缝纫机。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这结合了3D打印技术和古代线程来纺织碳纳米管和石墨烯。"
+  }
+]

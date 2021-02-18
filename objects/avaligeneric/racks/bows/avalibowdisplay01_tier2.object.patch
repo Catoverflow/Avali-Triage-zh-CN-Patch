@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这里面展示着羽族科技复合弓。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "武器展示架"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "有趣！ 它似乎实现了可以从某种内部储存设备补充弹药。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我真的不知道这到底是一把弓还是一把枪。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "鸟人展示的一种有着奇怪怪怪光泽的弓。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 这个装置看起来像一个原始的弓，但实际上是一个弓形的弹药加速器。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "它看起来像我们的复合弓，但似乎可以从空气中补充弹药！"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这是什么，弓还是枪？"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我不知道谁发明了这把武器。它使用了我们的技术，但我们从来没有这样做过..."
+  }
+]

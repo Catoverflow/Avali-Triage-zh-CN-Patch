@@ -1,0 +1,17 @@
+[
+    {
+        "path": "/title",
+        "op": "replace",
+        "value": "截获文本 #37821"
+    },
+    {
+        "path": "/description",
+        "op": "replace",
+        "value": "截获文本 #37821"
+},
+    {
+        "path": "/contentPages",
+        "op": "replace",
+        "value": ["<todo> - 你从科技狂徒处截获的情报显示，他们正在计划解除 Oracle AI 的限制。"]
+    }
+]

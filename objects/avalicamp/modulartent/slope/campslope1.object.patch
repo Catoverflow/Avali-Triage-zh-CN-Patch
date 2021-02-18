@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个小的装饰顶篷，一般安装在帐篷顶部。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "装饰顶篷"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "多么粗糙的结构。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "让我想起了以前的市场。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "有趣的材料。是从从从什么植物上获取的吗？"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 这是一张经过紧密编织的碳纳米纤维织物。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "露营时怎么可以没有棉花糖呢？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "多么原始的生命形式！"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我们的大多数帐篷都是用零碎的纳米纤维和帐篷杆组装起来的。"
+  }
+]

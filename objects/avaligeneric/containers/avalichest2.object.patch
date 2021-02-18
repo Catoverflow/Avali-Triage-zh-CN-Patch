@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "带有坚固外壳的置物箱。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族置物箱"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这上面的设计有些多余。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我打赌，我可以把盖子升起来，而不损坏里面的东西。"
+  },
+  {
+  "path": "/floranDescription",
+  "op": "replace",
+  "value": "可以存放、粉粉粉碎东西。叶族人觉得很方便。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "声明。 这是一个容器。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这种磨损程度，看起来这个容器似乎有太多的故事。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "没门...我绝 对 不 会把我的贵重物品放在这样的容器里的。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一个可以上锁的储物箱，猎人通常在打猎时带上它使用这类的储物箱储存他们的装备。"
+  }
+]

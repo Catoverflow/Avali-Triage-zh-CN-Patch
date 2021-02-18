@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个有着行星信息的全息图。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "行星全息图"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "从地形来看，它可能是在显示一个星球。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "没有屏幕的屏幕，太有趣了。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这太无无无聊了..."
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "勤奋。 我的亲属会认为这是邪恶的，他们相信世界是平的。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "看起来像是这个星球的数据。虽然这数据没法读取。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这么多的信息，看得眼都花了。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这似乎是这个星球的数据，大气构成，地形，诸如此类。"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "黑暗金属六镀块"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "它像一个小蜂巢！"
+  }
+]

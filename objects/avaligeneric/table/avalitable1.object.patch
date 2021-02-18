@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个折叠桌子，又或许是一个架子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "折叠桌"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这不是科技发展部为我们提供的标准办公桌。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "谁能看出这是一个架子还是一张桌子？"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这这这张床很傻傻傻，它它它看起来像桌子一样硬。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 这个架子某些地方设计得有些多余。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "看起来更像一个轮椅。为什么羽族的东西总是没有实用功能？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我可不会把书放到这里面，书蠹会把它们啃光的。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一个架子...或者是一个桌子。"
+  }
+]

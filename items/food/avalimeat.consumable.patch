@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "大块调味肉干，深受猎人和探险家的欢迎。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "香辣肉干"
+  }
+]

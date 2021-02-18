@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "气凝胶桌"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族黑色桌子"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这不像大猿标准家具系列的桌子。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "暗色金属和气凝胶制成的桌子，没什么特殊的。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这个床好好好无聊，和桌子一样硬。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "坏坏。如果我足够用力，它会破吗？"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我认为它只是一张比较大的橙色桌子"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这色调有点怪。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一张桌子，没什么好说的。"
+  }
+]

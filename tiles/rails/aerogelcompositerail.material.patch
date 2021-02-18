@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "经过强化的轨道。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "气凝胶-石墨烯轨道"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "闪亮的金属轨道。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "满意。轨道的用料使得它非常结实。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "看起来挺坚硬，靠近一点来乘梯。"
+  }
+]

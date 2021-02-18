@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一把Avali霰弹枪。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "QRC I型"
+  }
+]

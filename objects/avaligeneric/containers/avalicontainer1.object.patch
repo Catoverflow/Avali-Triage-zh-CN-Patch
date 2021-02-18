@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个大储存箱，用来储存大件。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "货物箱"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "看起来是为了保险而设计的，我在想会不会像科技发展部的箱子一样有防篡改自毁功能。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我见过比这个箱子还要小的房子。"
+  },
+  {
+  "path": "/floranDescription",
+  "op": "replace",
+  "value": "羽族的房子，小小小而壮实！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "疑惑。 无法判定这是一个机械运输箱还是一个货物箱。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "箱子里有啥？我要看看！"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "一个货物箱，看起来可能是一艘驳船会运载的。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这个箱子有自己的电子货单，它会读取内部货物的频射识别标识然后自动形成一个仓库，甚至可以通过我的平视显示器来告诉我货物的位置。"
+  }
+]

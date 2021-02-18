@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "金属材料。"
+  },
+  {
+    "path": "/glitchdescription",
+    "op": "replace",
+    "value": "声明。 这是一些金属。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族船壳板"
+  },
+  {
+    "path": "/florandescription",
+    "op": "replace",
+    "value": "钢钢钢。"
+  }
+]

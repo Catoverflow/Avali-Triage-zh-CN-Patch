@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "专门用于大规模制造的混合3D打印机。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "武器工作台"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这些工具看起来可以修缮武器。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "某种高科技工作台。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "一个金属工作台，上面有好好好多刺刺。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "沉思。这一定不是锻造台。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我觉得好像在哪里见过这些工具。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我不懂这是用来做什么的，做电工有失我的身份。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是个武器工作台，我可以用这些工具和合适的材料升级我的武器。"
+  }
+]

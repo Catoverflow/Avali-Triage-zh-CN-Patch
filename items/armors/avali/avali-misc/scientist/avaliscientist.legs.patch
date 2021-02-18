@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部装饰 ^white; 我要成为科学家。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "科学家风裤"
+  }
+]

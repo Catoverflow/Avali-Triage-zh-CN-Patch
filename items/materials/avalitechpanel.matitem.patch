@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "科技镶板"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这种聚合面板是用来隐藏和保护电子设备的。"
+  }
+]

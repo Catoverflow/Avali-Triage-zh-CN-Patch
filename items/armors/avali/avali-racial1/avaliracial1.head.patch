@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 这些是耳尖护罩你敢信..."
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "精裁耳罩"
+  }
+]

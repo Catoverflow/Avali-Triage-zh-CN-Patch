@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "追猎者与武术家们在展现引以为豪的格斗技巧时所使用的武器。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "HH4 寒霜"
+  }
+]

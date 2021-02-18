@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "结实的架子，可以调节。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "气凝胶架"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这不像科技发展部标准家具系列的桌子。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "架子？桌子？有人知道么？"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这个床好好好无聊，和桌子一样硬。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。这个架子被过度设计了。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "如果和我的壁炉搭配，看起来会很棒。不会吗？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "看起来玻璃般易碎。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一个搁架，或是桌子...说实在的纠结什么，把你引人眼球的装饰放在上面就行了。"
+  }
+]

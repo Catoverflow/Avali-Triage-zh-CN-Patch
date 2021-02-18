@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "有着暗色的插入面板，带着斜面！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "斜面暗色插入面板"
+  }
+]

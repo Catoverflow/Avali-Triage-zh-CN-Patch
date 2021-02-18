@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "数据储存器"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "用来进行物理备份的数据储存器。"
+  }
+]

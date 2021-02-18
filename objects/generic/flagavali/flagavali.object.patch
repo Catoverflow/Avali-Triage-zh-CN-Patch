@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "有着羽族三羽徽章的全息投影仪。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族旗帜"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "有一天我们会看到这样的旗帜飘扬在自己家园的上空，援助我们的抵抗军。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "克鲁西斯信徒认为，羽族异教徒采用翼作为自己的符号是对克鲁西斯神权的侵犯。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人猜这是一只只只拔了毛的鸟。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。羽族旗帜看起来是在圆圈图标的基础上加上一只翅膀的图样。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "在近地轨道上看到带有这种纹章的飞船，人类会感到不安。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "羽族三只羽毛的的符号，让我想起了我们旗帜上的三眼图案"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我们的现代标志，代表公民、探索联盟和军事舰队"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "六镀方块"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "形状类似蜂巢，灵感可能来自于蜂巢。"
+  }
+]

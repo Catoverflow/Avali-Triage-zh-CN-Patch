@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "舒服的椅子"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族长椅"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "有着织物和垫的长椅"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "不懂要对它做什么"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人认认认为可以用石石石头做坐垫"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "好奇。这个沙发上有不规则的枕头。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我要搞来一个。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "适合三人一起坐的沙发。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "可以容纳几个毛绒绒的屁股。"
+  }
+]

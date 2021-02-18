@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一种用于储存物理数据设备的信息终端的贩卖机。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "信息终端"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这似乎是一个公共的信息终端。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这东西在阿沃斯象形文字上代表‘信息终端’！"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "对于叶族人来说，这说明里面有好好好东西。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "惊喜。 看，它在说：01101001 01101110 01100110 01101111"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "在英语我们把它叫做：Public information terminal，这应该会对你有所帮助。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "信息性死亡？ 我不确定羽族有没有很好地了解鲛人语言和他们语言之间的细微差别。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一台信息终端，不是羽族的操作者也可以使用它们访问一些Nexus数据库。"
+  }
+]

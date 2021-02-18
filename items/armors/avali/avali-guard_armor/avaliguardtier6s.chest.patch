@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "羽族守卫装甲插板。毕竟守卫也需要保护嘛！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "T6-S型羽卫装甲"
+  }
+]

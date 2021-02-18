@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "可靠的传送器，没有你我能做什么呢？羽族制造。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "传送器"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "传送就像坐光速过山车。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "传送给我飞一般的感觉。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "传送使使我困惑。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "学习。在传送过程中我会进入休眠状态。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "传送就是一阵猛冲。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "传送感觉像从山巅跃入海中。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "传送器。带上她一起兜风！"
+  }
+]

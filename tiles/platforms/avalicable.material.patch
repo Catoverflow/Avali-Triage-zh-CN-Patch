@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "由碳纳米管制成的电缆，性能优异。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "纳米电缆管"
+  }
+]

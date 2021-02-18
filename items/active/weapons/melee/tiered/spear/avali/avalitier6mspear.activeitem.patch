@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "VL7 冰晶"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "VL7 冰晶"
+  }
+]

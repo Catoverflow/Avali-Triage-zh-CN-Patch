@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这里面展示着羽族突击步枪。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "武器展示架"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "有趣！ 看起来羽族有便携式的铁制武器。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我真的不知道这是什么。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "鸟人正在展示着发发发光的金属棒子。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 该器件似乎具有连接到压强电源的2个分离的金属导轨。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "它看起来像一个铁制的枪，但好像太小了。也许这是一个玩具，给孩子们玩的？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这是什么，机械矛式投掷器？"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我们武器的弹道上有独特的识别装置，只有枪认可的人才可以发射它。"
+  }
+]

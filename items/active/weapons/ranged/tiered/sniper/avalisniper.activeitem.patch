@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "反器材步枪，多用于打击装甲车辆而不是野兽。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "AM1 炎矛"
+  }
+]

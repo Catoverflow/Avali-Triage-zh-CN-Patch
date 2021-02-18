@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "我可以用它随地传送！ \n^red;破坏时会被摧毁."
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族的纳米传送器"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这个优雅的传送器会在传送时擦亮你的鞋，上紧你的衣服。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这个优雅的传送器会在传送时擦亮你的鞋，上紧你的羽毛。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这个优雅的传传传送器会在传送时擦擦擦擦亮你的鞋，上紧你的衣服。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "这个优雅的传送器会在传送时擦亮你的鞋，上紧你的螺丝。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这个优雅的传送器会在传送时擦亮你的鞋，上紧你的衣服。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这个优雅的传送器会在传送时擦亮你的鞋，上紧你的衣服。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "这个优雅的传送器会在传送时擦亮你的鞋，上紧你的皮带。"
+  }
+]

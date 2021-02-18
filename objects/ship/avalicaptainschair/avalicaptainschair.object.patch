@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "出发！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族的船长椅"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "哈...甜蜜的自由。我可以坐在这里使用飞船的导航系统。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "船长椅。船长就是我！我可以坐在这里使用飞船的导航系统。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "船上最好的椅子。叶族人可以在这这这里使用飞船的导航系统，把飞船开飞。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "激动。坐在船长椅上，我可以发动飞船。下一站是哪里？"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "船长椅。坐在这里的人可以决定飞船往哪里开。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "坐在船长椅上，我可以发动飞船。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "船长椅。坐在这里的伙计可以决定飞船往哪里开。没错就是我！"
+  }
+]

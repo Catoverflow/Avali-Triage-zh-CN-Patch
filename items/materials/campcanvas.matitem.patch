@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "超级轻，超级坚固。羽族的帐篷可以挡住子弹！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "纳米篷布"
+  }
+]

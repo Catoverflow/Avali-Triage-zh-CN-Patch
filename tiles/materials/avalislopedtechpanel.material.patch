@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "科技面板，带有斜面，所以你的电线可以乱连啦！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "有斜面的科技面板"
+  }
+]

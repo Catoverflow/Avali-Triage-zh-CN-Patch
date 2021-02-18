@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一部气凝胶电梯。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "气凝胶电梯，长款"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "坚固的电梯。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "在多层建筑上上下下的最简便方式。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "电梯在上上上下下。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "无聊。乏味的电梯。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "用来在不同层间上下的电梯。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "光滑整洁的电梯。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "某种电梯，好像很实用！"
+  }
+]

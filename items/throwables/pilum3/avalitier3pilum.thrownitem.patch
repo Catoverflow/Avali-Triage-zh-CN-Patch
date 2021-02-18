@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这些长矛是为每个小组的荣誉士兵所保留的，据说能够穿透坦克装甲。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "P-3 碎雹"
+  }
+]

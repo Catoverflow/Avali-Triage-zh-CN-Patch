@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "里面的晶体看起来十分有趣。那是谐振晶体么？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "大同步晶体样本"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这种功能的晶体我从没见过。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这不像我们的晶体，我在想它到底是什么。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "闪亮亮亮的石头。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "开玩笑。它是新一代的i晶体。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我有点想把它挂在我的后视镜上。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "看起来有点贵。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一块罕见的大块同步晶体。"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "没有屏幕的屏幕，太有趣了。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "<看波形，晃动头部>"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这是一个相当基本的正弦波形式，不过我看不懂。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "全息图，波形"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我宁愿用全息技术来装饰而不是用来劳动。"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "似乎是某种波形分析软件。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这是一种波的形式，什么都有可能"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一种波形分析软体，不太确定源程序是什么，文件名是一堆数字。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "回忆。 y(t) = A sin (kx - omega t)"
+  }
+]

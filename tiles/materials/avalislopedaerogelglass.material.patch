@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "气凝胶玻璃，带有斜面！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "有斜面的气凝胶玻璃"
+  }
+]

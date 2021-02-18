@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这个又漂亮又大的壁挂式储物柜是你藏东西的最佳选择。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "储物柜"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "Avali进行火力压制和持续输出的首选。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "MG1 雹陨"
+  }
+]

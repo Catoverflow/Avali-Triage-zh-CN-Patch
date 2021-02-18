@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "门。应该适用于飞船"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族飞船门"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我们在飞船上用这些门...不，没有的事。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "门"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "门！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "陈述。门"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "酷酷的门"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "基本的门"
+  }
+]

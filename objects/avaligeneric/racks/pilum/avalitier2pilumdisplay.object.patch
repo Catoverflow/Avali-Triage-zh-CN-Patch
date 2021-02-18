@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这里面展示着的是一把现代狩猎武器。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "武器展示架"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "他们体型如此之小竟然会选择长矛。他们到底是如何使用它们的？"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我看得越多，对羽族的了解就越多。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "*吸气* 对对对对对，最棒棒锤锤锤的！！！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "自豪。 我们的矛展示出更卓越的工艺。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "对于这个高等种族来讲这个实在是有点太基础了.."
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这种务实的制作符合我的品位。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "砸砸砸！"
+  }
+]

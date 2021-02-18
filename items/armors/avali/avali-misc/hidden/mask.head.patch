@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "装备在时装栏，来隐藏你的头盔。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "隐形帽"
+  }
+]

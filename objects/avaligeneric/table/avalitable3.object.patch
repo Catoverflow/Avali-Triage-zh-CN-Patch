@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个较低的大桌子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族桌子"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这不是科技发展部为我们提供的标准办公桌。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "只能跪着的桌子，或者只是给小人国的宴会桌？。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这这这张床很傻傻傻，它它它看起来像桌子一样硬。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "如释重负。 连仆人都钻不进这种桌子。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "羽族制品看来就像是iPod。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我想羽族吃饭的时候是跪着的吧，我理解了。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这就是一张桌子，拜托，别让我重复了。"
+  }
+]

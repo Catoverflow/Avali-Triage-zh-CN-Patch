@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族头部装饰 ^white; 可能疯狂科学家才会戴这个吧..."
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "科学家护目镜"
+  }
+]

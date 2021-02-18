@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "平滑面板，因简单而实用！带有斜面，比实用更实用！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "有斜面的平滑面板"
+  }
+]

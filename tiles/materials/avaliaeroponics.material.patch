@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "气培管"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这种管道专门用来输送供植物生长的气态营养液。"
+  }
+]

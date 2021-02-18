@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "超辣的纳克蒂辛香塔可玉米饼；有时不是羽族还不敢吃。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "阿瓦隆风味玉米饼"
+  }
+]

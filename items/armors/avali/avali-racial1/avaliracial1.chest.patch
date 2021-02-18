@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "羽族平民中流行的金边披肩。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "精裁披肩"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "用苉茹叶子磨成的面粉状多功能物质。吃...还是算了吧。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "苉茹淀粉"
+  }
+]

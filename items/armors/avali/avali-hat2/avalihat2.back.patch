@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，背部饰品槽^white; 不管红围巾蓝围巾，能随风飘动的就是好围巾。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "飘扬的围巾"
+  }
+]

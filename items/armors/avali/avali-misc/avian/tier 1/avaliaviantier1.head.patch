@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "从翼族祭司的铁戒指开始...正在融入！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "幼禽戒指"
+  }
+]

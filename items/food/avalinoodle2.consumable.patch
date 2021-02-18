@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "香辣荤面浇上满满一大勺芨荔酱。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "芨荔打卤面"
+  }
+]

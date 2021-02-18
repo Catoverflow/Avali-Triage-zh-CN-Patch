@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族平台"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一块硬化的气凝胶平台。"
+  }
+]

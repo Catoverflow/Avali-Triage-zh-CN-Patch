@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一台几乎可以显示一切东西的机器！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族显像设备"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "古代技术和现代科技的融合。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "一个显示设备。我可以用这样的机器来造我的香蕉奖杯。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "它前前后后地转转转来转去。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "沉思。我曾做过一段时间的织工。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "经线纬线，哪一条竖着走呢？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "喔！我一定要在房子里装上一台。"
+  }
+]

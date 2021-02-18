@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个黑色的金属支架。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "黑暗金属支架"
+  }
+]

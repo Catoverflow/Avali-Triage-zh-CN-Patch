@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这个大脑的皮层结构已经产生了不该有的皱纹，似乎是因为在盐水中泡了太久的缘故。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "大脑标本"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我们的一些最伟大的科学家的大脑就保存在类似这种罐子里。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "制作它的到底在想什么？"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "嗯...大大大脑"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "漠不关心。 它似乎是一个有机的中央处理单元。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "不。不。不。不！ 不！！！"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这是一种装饰，不过味道有些难闻。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "嗯？一个放在瓶子里的大脑，我真不知道这样做有什么用。"
+  }
+]

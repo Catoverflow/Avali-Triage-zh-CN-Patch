@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一把棒棒的用来坐的椅子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族长椅"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我觉得太小了，容不下我的屁股。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "把坐垫拿开就是一个鸟窝。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "好软好好好舒服，叶族人喜喜稀饭。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "开心。它看起来有点可爱。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我得弄一个...或者两个！"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "感觉有一点矮。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "在上面我可以蜷起来睡觉..."
+  }
+]

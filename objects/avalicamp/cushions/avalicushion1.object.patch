@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个豪华的软垫。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "坐垫"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "不是最实用的家具。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "它击败了稻草被褥..."
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "软软软软软软软软软垫。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "谨慎。 这种家具结构不稳定。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "真的！羽族的文明程度毋庸置疑，他们居然有豆豆椅子!"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "多么精致的材料！"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "躺在它上面，睡在它上面，把它们堆起来，做一个...垫子堡垒或是积木！"
+  }
+]

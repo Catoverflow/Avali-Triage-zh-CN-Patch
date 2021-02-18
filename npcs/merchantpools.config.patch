@@ -1,0 +1,103 @@
+[
+    {
+        "op": "replace",
+        "path": "/avaliguns/0/1/1/0/item/data/shortdescription",
+        "value": "PD2 霜冻"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/1/1/1/item/data/shortdescription",
+        "value": "AR2 暴雪"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/1/1/2/item/data/shortdescription",
+        "value": "FM2 炎矛"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/1/1/3/item/data/shortdescription",
+        "value": "MG3 雹陨"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/1/1/4/item/data/shortdescription",
+        "value": "QRC II型"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/2/1/0/item/data/shortdescription",
+        "value": "PD3 霜冻"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/2/1/1/item/data/shortdescription",
+        "value": "AR3 暴雪"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/2/1/2/item/data/shortdescription",
+        "value": "FM3 炎矛"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/2/1/3/item/data/shortdescription",
+        "value": "MG3 雹陨"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/2/1/4/item/data/shortdescription",
+        "value": "QRC III型"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/3/1/0/item/data/shortdescription",
+        "value": "PD4 霜冻"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/3/1/1/item/data/shortdescription",
+        "value": "AR4 暴雪"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/3/1/2/item/data/shortdescription",
+        "value": "FM4 炎矛"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/3/1/3/item/data/shortdescription",
+        "value": "MG4 雹陨"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/3/1/4/item/data/shortdescription",
+        "value": "QRC IV型"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/4/1/0/item/data/shortdescription",
+        "value": "PD5 霜冻"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/4/1/1/item/data/shortdescription",
+        "value": "AR5 暴雪"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/4/1/2/item/data/shortdescription",
+        "value": "FM5 炎矛"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/4/1/3/item/data/shortdescription",
+        "value": "MG5 雹陨"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/4/1/4/item/data/shortdescription",
+        "value": "QRC V型"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/5/1/0/item/data/shortdescription",
+        "value": "PD6 霜冻"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/5/1/1/item/data/shortdescription",
+        "value": "AR6 暴雪"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/5/1/2/item/data/shortdescription",
+        "value": "FM6 炎矛"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/5/1/3/item/data/shortdescription",
+        "value": "MG6 雹陨"
+    },{
+        "op": "replace",
+        "path": "/avaliguns/0/5/1/4/item/data/shortdescription",
+        "value": "QRC VI型"
+    }
+]

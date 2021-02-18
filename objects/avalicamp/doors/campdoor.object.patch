@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "帆布做的窗帘。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "帐篷门"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "尽管外观有些糟糕，但我想它可以抵挡火山碎石。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "让我想起了接地的横幅..."
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "为什么有一条毛巾挂挂挂在在入口？"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 结实的帐篷门。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "好吧，如果没有这些，你将没有任何保护。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "装饰品，但是还不够好。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "它看起来很普通，但是足够保护你了。"
+  }
+]

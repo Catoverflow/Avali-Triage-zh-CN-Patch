@@ -1,0 +1,32 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/items/avali/0/1/0/primary/0/data/shortdescription",
+    "value" : "QRC I型"
+  },
+  {
+    "op" : "replace",
+    "path" : "/items/avali/0/1/1/primary/0/data/shortdescription",
+    "value" : "MG1 雹陨"
+  },
+  {
+    "op" : "replace",
+    "path" : "/items/avali/1/1/0/primary/0/data/shortdescription",
+    "value" : "QRC II型"
+  },
+  {
+    "op" : "replace",
+    "path" : "/items/avali/1/1/1/primary/0/data/shortdescription",
+    "value" : "MG2 雹陨"
+  },
+  {
+    "op" : "replace",
+    "path" : "/items/avali/2/1/0/primary/0/data/shortdescription",
+    "value" : "QRC III型"
+  },
+  {
+    "op" : "replace",
+    "path" : "/items/avali/2/1/1/primary/0/data/shortdescription",
+    "value" : "MG3 雹陨"
+  }
+]

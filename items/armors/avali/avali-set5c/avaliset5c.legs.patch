@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 苔原行者之外衣。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "探寻者大衣"
+  }
+]

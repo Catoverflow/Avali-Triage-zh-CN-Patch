@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一个传统的狩猎矛，刃部可以在目标内碎裂。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "P-1 裂雹"
+  }
+]

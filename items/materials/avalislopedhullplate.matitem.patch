@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "朴实的面板，因为有时候越少越好。带有斜面，因为有时候越多越好！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "斜面普通面板"
+  }
+]

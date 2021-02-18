@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 一条厚厚的羊毛围巾，在阿瓦隆的寒日里简直完美。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羊毛围巾"
+  }
+]

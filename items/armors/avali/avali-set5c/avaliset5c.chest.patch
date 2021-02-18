@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，胸部饰品槽^white; 天地遐遐，苔原为家，斗篷苍苍，抚慰吾伤。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "探寻者斗篷"
+  }
+]

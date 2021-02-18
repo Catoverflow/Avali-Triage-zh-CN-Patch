@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "用于制造羽族物品的石墨烯织物。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "石墨烯"
+  }
+]

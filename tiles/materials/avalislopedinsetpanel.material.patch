@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "亮色的带有斜面的插入面板。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "有斜面的插入面板"
+  }
+]

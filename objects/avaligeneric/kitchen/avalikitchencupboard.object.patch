@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这个高科技橱柜真是好东西。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "高科技橱柜"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这个柜子是非常轻，而且很坚固。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这就像梦幻般的奖杯摆放处。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "如果都能直接看到了里面，那这到底算算算什么好箱子？"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "无聊。 当你看到这个柜子，你就已经知道里面有什么了。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这是一个橱柜，可能和宜家里面的柜子有着相似的功能。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这种烂设计使我想家了。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "或许可以直观地看到内部这个功能有些多此一举，但这只是为了虚拟现实提供更多的互动性。"
+  }
+]

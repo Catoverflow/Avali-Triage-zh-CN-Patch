@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "里面散发出强烈的氨气和酒精的气味。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "Avali瓶子架"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "闻起来像氨气，可能是某种地板清洁剂。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "呕。闻起来就像里面有翼族人的排泄物。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人认认认为这是美乐粿。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "分析。90%以上的氨和少量酒精等杂质。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我在想Avali是怎么在厨房做出干净食物的。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "Avali的设计超美，不过闻起来像毒药！"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "嗯，阿瓦隆酒庄，两年陈酿...那年收成不错。越多越好。"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 那谁，你不是喜欢小裙子嘛，我给你在小裙子外面再套一件小裙子好了..."
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "精裁宽裙"
+  }
+]

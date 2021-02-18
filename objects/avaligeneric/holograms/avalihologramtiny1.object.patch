@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "在这个小小的全息图内标记着某些东西。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "全息图POI"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这个小小的全息图上标记了好多的点。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "看起来它正在试图表达某种东西。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这看起来很很很有趣..."
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "鄙视。 我的传感器阵列表示不感兴趣。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "嘿，哥们，如果我们能够把人类殖民地利用这玩意儿记录下来，一个星期内，这玩意儿肯定会爆炸的。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我想知道我们是否可以借用这个技术为我们的家园制作一个发光的标志..."
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "用户有权限将标记留在增强现实或全息图中，例如工程笔记。"
+  }
+]

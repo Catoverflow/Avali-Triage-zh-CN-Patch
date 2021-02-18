@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这里面展示着羽族加特林机枪。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "武器展示架"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "有趣！看来羽族有加特林机枪。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我真的不知道这是什么。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "鸟人正在展示着发发发光的金属棒子。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 这个装置似乎有很多枪管。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这看起来像一挺加特林机枪。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这是什么，机械式投矛掷器？"
+  }
+]

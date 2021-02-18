@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "小小的，藤壶一样的菌落，长出长叶子般的细丝。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "Piru菌落"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "非要猜的话，我觉得这是这是巨大的，正在呼吸的藤壶。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "让我想起了毛茸茸的叶子。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "毛茸茸的植植植物？怪怪的植植植物。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "分析。扫描仪在一个样本中发现了数以千计的微生物。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这玩意看起来像是在地球上的珊瑚礁里能找到的东东"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "它像是产自我的美丽花园。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "它可以从空气中捕获矿物质，在收割之后长得相当快。"
+  }
+]

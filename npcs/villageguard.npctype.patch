@@ -1,0 +1,27 @@
+[
+    {
+        "path": "/items/avali/0/1/0/primary/0/data/shortdescription",
+        "op": "replace",
+        "value": "PD1 霜冻"
+    },{
+        "path": "/items/avali/0/1/1/primary/0/data/shortdescription",
+        "op": "replace",
+        "value": "AR1 暴雪"
+    },{
+        "path": "/items/avali/1/1/0/primary/0/data/shortdescription",
+        "op": "replace",
+        "value": "PD2 霜冻"
+    },{
+        "path": "/items/avali/1/1/1/primary/0/data/shortdescription",
+        "op": "replace",
+        "value": "AR2 暴雪"
+    },{
+        "path": "/items/avali/2/1/0/primary/0/data/shortdescription",
+        "op": "replace",
+        "value": "PD3 霜冻"
+    },{
+        "path": "/items/avali/2/1/1/primary/0/data/shortdescription",
+        "op": "replace",
+        "value": "AR3 暴雪"
+    }
+]

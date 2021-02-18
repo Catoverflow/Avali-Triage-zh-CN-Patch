@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "可靠的科技镶板，从2807年起就能用于隐藏拓展电器。现在有了斜面！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "斜面科技镶板"
+  }
+]

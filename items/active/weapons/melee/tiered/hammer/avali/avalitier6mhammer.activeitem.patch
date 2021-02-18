@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "拥有火箭发动机及导向鳍片的冰川型“万能钥匙”被用来破门...甚至是破壁。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "SKM2 冰川"
+  }
+]

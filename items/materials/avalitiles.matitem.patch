@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "复合瓷砖"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "容易擦拭的瓷砖...非常容易弄脏。"
+  }
+]

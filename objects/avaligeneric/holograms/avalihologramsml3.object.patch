@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "在这个全息图内显示的是正在旋转的双螺旋结构。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "双螺旋全息图"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "双螺旋通常存在于自然界中，特别是在DNA中。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这个屏幕上的图片看起来像一个辫子。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "脱脱脱氧核糖核酸....等等，叶族人是怎么知道的？"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "分析。 该模型与在有机生物内见到的氨基/多糖链一致。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "看起来像一个DNA模型，为什么这么多电脑上的屏幕都显示这个？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "在当地的购物中心就有一个像这样的现代艺术装置！"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "看起来像正在制作细菌的工程，它们对于一系列应用程序(如生物燃料或清洁)非常有用。"
+  }
+]

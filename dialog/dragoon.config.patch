@@ -1,0 +1,7 @@
+[
+    {
+        "path": "/dragoon_attack/default/default",
+        "op": "replace",
+        "value": ["尝尝矛尖的滋味吧","你会后悔踏入这里","侵入者必死"]
+    }
+]

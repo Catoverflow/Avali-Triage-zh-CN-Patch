@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "轻巧的帐篷杆"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "纳米帐篷杆"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 一身极其适合羽族代表的高雅装束。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "使节宽裙"
+  }
+]

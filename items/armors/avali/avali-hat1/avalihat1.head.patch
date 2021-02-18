@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 很受小老太太的欢迎的头巾。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "头巾"
+  }
+]

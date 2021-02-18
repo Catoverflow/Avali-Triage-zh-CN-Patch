@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 一个重型耐钢头盔，在你确定一定以及肯定不想“学姐”时，戴它总没错。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "突击型头盔"
+  }
+]

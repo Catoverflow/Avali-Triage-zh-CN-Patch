@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "它里面散发出强烈的氨气的味道...也许它里面是地板清洁剂？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族瓶子"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "它闻起来像氨，也许是某种地板清洁剂？"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "呃，闻起来就像是一只鸟类的排泄物。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人觉得这这这真是棒极了！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "分析。 90% 的氨与其他杂质，包括醇。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我不明白为什么羽族会把他们的清洁用品放在食品柜里。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "羽族的审美与他们的设计品味真不错，不过他们的葡萄酒闻起来就像毒药。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "嗯~ 阿瓦隆葡萄园，2年份..."
+  }
+]

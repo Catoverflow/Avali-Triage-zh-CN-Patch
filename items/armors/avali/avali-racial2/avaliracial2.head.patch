@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 这些就像珠宝一样，反正也是为了面子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "风铃耳罩"
+  }
+]

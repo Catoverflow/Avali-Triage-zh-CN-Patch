@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "发光的通风面板。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "纵向面板"
+  }
+]

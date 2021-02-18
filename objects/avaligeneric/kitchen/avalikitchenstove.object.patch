@@ -1,0 +1,57 @@
+[
+  {
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace",
+    "value": "羽族厨具"
+  },
+  {
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace",
+    "value": "*咂嘴*，嗯~"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个结合了燃气炉、风扇、微波炉、烤箱、火炉的设备。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "^orange;羽族炊具^white;"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "有趣的是，它需要的不是甲烷，而是氧。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "它可以烹饪所有的食物。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人把木头放到这个盒子里，然后加热，直到它爆炸。生火简直直直是愚蠢极了。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "可疑。 我怀疑这个设备可以提供足够高的温度，甚至可以使金属熔化。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我或许应该看看说明书，然后再试试我的猫以前对炉子做的那种事。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我怀疑这些羽族制造的烹饪设备存在有瑕疵。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我们呼吸着甲烷，所以我们的炉子必须泵送氧气，然后才能与空气中的甲烷燃烧。"
+  }
+]

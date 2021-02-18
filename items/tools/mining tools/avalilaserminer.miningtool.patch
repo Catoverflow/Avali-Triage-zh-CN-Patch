@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "镐子已经是上个千禧年的产物了！激光才是未来。这一款激光采矿器配备了羽族聚焦透镜并拥有了更长的使用寿命。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族激光采矿器"
+  }
+]

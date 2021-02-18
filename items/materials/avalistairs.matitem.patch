@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族楼梯平台"
+  },
+  {
+    "path": "/glitchdescription",
+    "op": "replace",
+    "value": "声明。 这是羽族的楼梯。"
+  },
+  {
+    "path": "/florandescription",
+    "op": "replace",
+    "value": "楼楼楼梯。"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "羽族设计的楼梯。"
+  }
+]

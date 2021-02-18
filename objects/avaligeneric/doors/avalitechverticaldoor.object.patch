@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个垂直的舱口门。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族垂直科技舱口"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这是一个垂直的舱口门。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这是一个工程舱口。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人可以上上上上下下。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "善于观察。 此舱门适用于垂直入口。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这种舱门如果你不跳是够不到的。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这是一个舱门，我会在心中记下它的使用方式。"
+  }
+]

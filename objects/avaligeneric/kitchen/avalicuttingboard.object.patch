@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这里有你一切需要的东西，切割板，磨刀石，垃圾处理器，当然也有水龙头。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "^orange;烹饪台^white;"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "等等，有抽油烟机吗？"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "它上面好像有很多油渍？"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "它有一块磨刀刀刀石，这真是太棒棒了！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "渴望。 以前我曾在城堡的厨房里当过佣人。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这是一个多层桌子，还是橱柜？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "只有艺术家才能作出完美的作品，而不是作出完美的工具，看来羽族很好的贯彻了这一观念。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "我会把烹饪过程变得乱糟糟的。"
+  }
+]

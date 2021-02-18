@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "普通面板"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "朴实的面板。"
+  }
+]

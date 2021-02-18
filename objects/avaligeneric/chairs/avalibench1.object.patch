@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一把棒棒的用来坐的椅子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族长椅"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "只是把小椅子。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "只是把小椅子。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "小小的椅子子子。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "无聊。它没有使用合金。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "哦天哪，我一定要弄一把这样的椅子！"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "感觉像一把普通的椅子。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "对毛绒绒的屁股而言很舒服。"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "改进的磁悬浮椅，更长更舒服。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "Avali双人椅"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我的科技不足以爬上这磁悬浮椅。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我可以把坐垫扯下来一点做鸟窝。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "粘软的椅子，叶族人不喜欢。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "高兴。我的屁股再也不会卡在椅子上了。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我要搞来一个。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "感觉像一个正常的沙发。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我可以蜷起来睡觉。"
+  }
+]

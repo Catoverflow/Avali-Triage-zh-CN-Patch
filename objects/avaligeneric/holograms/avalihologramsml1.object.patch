@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "羽族写的东西好像啄痕。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "文本窗口全息图"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我想有人在工作时正在阅读他们的个人信息墙。"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我认为我的罗塞塔编译器模块正在启动..."
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我将会拷贝一份给我的秘书..."
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "思考。 如果羽族已经在有了网络的情况下，为什么还另备光纤接口呢？"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "在这个全息图内显示出了文本。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "等等，我记得这个词，它的发音是： FUS-RO-DAH！"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "为什么他们还需要这么多多多文字，他们不是鸟吗？"
+  }
+]

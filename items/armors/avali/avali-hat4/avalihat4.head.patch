@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 怎么看怎么像给宠物戴的玩意。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "尖刺项圈"
+  }
+]

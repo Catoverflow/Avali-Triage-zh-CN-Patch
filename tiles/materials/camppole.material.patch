@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "我经常用它搅泥浆。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "帐篷杆"
+  }
+]

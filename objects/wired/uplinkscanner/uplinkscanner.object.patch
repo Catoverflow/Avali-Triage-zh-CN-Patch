@@ -1,0 +1,13 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "运动神经传感器，有趣。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "运动神经传感器"
+  }
+]
+  

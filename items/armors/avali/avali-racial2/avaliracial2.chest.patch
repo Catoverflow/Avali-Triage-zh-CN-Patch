@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "珠光宝气的披肩，水晶风铃会随步伐叮当作响。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "风铃披肩"
+  }
+]

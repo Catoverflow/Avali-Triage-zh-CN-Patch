@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 永不止步的漫游者穿着。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "游牧大衣"
+  }
+]

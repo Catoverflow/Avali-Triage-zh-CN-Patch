@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "柔软的装饰性材料。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族装饰"
+  }
+]

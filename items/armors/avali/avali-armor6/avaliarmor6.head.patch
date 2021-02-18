@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 配有可以避免危险或定位生物的广谱传感器阵列的战盔。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "HEV头盔"
+  }
+]

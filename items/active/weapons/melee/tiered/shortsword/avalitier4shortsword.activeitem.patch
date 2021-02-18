@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "粉碎式振动刀刃在殖民者，武术爱好者和漫画书迷中比在真正的士兵和猎人中更受欢迎。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "VB4 冰棱"
+  }
+]

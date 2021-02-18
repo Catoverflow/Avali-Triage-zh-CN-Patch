@@ -1,0 +1,52 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "舰载AI交互窗口，简称S.A.I.L。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "S.A.I.L"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "当它重新工作后，我可以和SAIL对话。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "重启它来和SAIL对话。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族用这这这个面板唤醒飞船！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "忧虑。我可能要先重启它才可以和SAIL对话"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "重启它就可以让SAIL上线"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这个控制台让我可以和SAIL交流，不过我得先重启它"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "是时候重启这个面板了！这样我才能跟SAIL交流。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "我迫不及待地想要重启它来和SAIL聊天"
+  }
+]

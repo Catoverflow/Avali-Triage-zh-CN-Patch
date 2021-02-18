@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "能装更多东西，为什么不用呢？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "船柜"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "羽族船柜"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "用来装有用的东西。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "箱箱箱箱子"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "冷漠。羽族柜子"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "羽族箱子"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "箱子，用来放东西。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "装东西的，箱子也。"
+  }
+]

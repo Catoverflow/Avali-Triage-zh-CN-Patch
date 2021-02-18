@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 配备集成HUD的全罩式战盔，前线士兵的标准装备。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "作战型头盔"
+  }
+]

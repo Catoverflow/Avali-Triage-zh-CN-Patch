@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "微风中飘着的一条长长的超轻型材料制成的丝带。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族丝带"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我希望有一天我们也能扬起这样的丝带。科技发展部每次都会立刻蹂躏这些旗帜。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "被束缚在地上的鸟儿好羡慕他们的织带。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "忍不住想去追逐舞动的丝带！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "忧郁。让我想起了家乡飞扬的旗帜。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "给这个地方增添了狂欢节的气氛。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这玩意在水下也会飘动么？"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这样的旗帜通常标记着主权，每一个家族的标志都是独一无二的。"
+  }
+]

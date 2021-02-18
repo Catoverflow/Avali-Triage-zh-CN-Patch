@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 经典翼族冒险家装扮，现已加入羽族豪华衣橱！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族-翼族装扮"
+  }
+]

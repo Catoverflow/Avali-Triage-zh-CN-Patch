@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "大帐篷杆"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "真够坚持的。"
+  }
+]

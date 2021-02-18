@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "此矛挥出时有如飞速窜动的闪电，直击要害。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "VL1 冰晶"
+  }
+]

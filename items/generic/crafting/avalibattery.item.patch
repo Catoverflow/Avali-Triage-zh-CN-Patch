@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "在充满电后这样的离子电池能存储大量能量。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "离子电池"
+  }
+]

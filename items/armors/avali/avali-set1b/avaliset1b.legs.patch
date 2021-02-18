@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，腿部饰品槽^white; 当印象分很重要时，该它出场了。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "外交宽裙"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，胸部装饰^white; 有着许多口袋的白大褂。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "科学家的斗篷"
+  }
+]

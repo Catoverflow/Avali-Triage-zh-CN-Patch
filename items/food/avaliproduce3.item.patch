@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一个苉茹藤壶上长而纤维状的叶状体。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "苉茹叶"
+  }
+]

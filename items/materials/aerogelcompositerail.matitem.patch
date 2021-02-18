@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "经过强化的轨道"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "气凝胶-石墨烯轨道"
+  }
+]

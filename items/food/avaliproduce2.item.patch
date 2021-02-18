@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "纳克蒂植株的辛辣树皮，用前磨一磨。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "纳克蒂树皮"
+  }
+]

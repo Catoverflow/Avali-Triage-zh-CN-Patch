@@ -1,0 +1,52 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "专门用于大规模制造的混合3D打印机。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "^orange;羽族纳米车床^white;"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "喔！我要好好研究研究这个仪器。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我从没见过这样的东西!"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "漂浮的砖块飘起来。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。使用预构材料和像素使它的效率提高了900%。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "哊，羽族肯定没有从我们这里学来这些技术。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "呃，我猜这能使我的手免于弄脏。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "3D打印机用纳米材料打印，纳米车床用纳米材料拆解原料，这使它快多了。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "好迷人，看起来像是3D打印机。"
+  }
+]

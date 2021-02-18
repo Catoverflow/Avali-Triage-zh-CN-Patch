@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "容易改装，却不太合身。我才不在意呢。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "高科技视觉识别夹克（Avali）"
+  }
+]

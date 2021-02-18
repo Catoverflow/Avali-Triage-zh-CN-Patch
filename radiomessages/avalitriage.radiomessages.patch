@@ -1,0 +1,7 @@
+[
+  {
+    "path": "/needfuavalitriagepatch/text",
+    "op": "replace",
+    "value": "您似乎在没有补丁的情况下同时运行了 Avali Triage 和 Frackin Universe。本消息将会持续提示您安装补丁。"
+  }
+]

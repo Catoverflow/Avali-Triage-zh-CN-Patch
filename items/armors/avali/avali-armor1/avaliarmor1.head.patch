@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 你以为这只是一副强大的耳麦？哈，天真。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族耳麦"
+  }
+]

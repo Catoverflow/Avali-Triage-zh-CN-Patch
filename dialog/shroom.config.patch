@@ -1,0 +1,9 @@
+[  
+  {  
+    "op":"replace",
+    "path":"/hail/floran/avali",
+    "value":[  
+      "哈，毛毛？"
+    ]
+  }
+]

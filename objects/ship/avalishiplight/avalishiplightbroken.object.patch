@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "出故障的灯"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "损坏的船灯"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这灯电力不足。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "闪烁的灯。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "令叶族眼花的灯。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "分析。这灯坏了。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "闪烁的灯"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "供电不足的灯。"
+  }
+]

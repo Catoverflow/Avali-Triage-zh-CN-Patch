@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "Avali步兵标配。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "AR1-HE 暴雪"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "可以使用一大堆不同的燃料。羽族设计。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族燃料仓"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "以燃料换自由。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "装满它，驶向星海！"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "出出出发。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "激动。加满燃料，你可以到达另一个星球。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "燃料仓。装满，然后探索。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "燃料是探索的生命线。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "FTL的燃料由这里灌装。"
+  }
+]

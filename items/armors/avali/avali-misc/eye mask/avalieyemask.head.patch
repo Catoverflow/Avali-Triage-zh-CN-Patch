@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "什么...我甚至连什么都..."
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族眼罩"
+  }
+]

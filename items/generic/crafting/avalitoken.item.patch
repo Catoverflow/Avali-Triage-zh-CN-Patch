@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "羽族数据芯片。包含了平时无法获取的装备升级信息。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族数据芯片"
+  }
+]

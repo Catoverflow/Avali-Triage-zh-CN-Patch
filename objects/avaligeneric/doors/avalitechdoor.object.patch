@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这门也许可以阻挡炮弹，但却不能阻止一把稿子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "镀金门"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我怀疑这个门后面是不是隐藏有他们的机密技术。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我不知道这到底是墙还是门，开门按钮在哪里？"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "墙壁由帆布组成，这么一个牢牢牢固的门完全没用。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "怀疑。 这扇门正在看着我..."
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "芝麻开门？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "他们难道一定要用如此讨厌的技术吗？"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "需要通过穿戴式增强现实设备才能解锁，只有羽族才能正常打开它。"
+  }
+]

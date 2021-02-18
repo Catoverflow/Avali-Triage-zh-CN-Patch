@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个小型，易于运输的储存箱子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族箱子"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "从前面看起来像一个滑动玻璃板。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "怪异的容器，一半像展示柜，一半像个箱子。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "看见了里面的东西，但是怎么打开它！！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "矛盾。数据显示这个里面不太可能装有价值的东西。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "看起来方便移动，估计USCM的员工会很喜欢这个。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "为什么羽族会有这么多充满功利性的家具？"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "羽族的家具一般被设计为不值钱方便遗弃的，或者方便携带的。"
+  }
+]

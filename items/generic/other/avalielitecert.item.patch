@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "Avali 精英证书，提供了 P-X 雹的使用许可。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "AEC"
+  }
+]

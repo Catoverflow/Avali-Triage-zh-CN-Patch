@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个小的嵌入式灯具。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "嵌入式灯"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这是一条灯带，不是很长，我想我可以带走?"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我有一种无法解释的冲动，我想把这放到我的巢里..."
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "便携式式式阳光！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "矛盾。 它是一个荧光光源。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "无线设计？我不知道电池可以持续多久。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "该灯上的燃料电池具有比其他电池有更长的寿命。"
+  }
+]

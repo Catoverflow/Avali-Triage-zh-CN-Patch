@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "乏味到有趣的插入面板！没什么颜色。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "普通的插入面板"
+  }
+]

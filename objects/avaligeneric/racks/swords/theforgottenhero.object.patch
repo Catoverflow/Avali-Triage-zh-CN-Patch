@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这里面展示着一把羽族的剑，这是我的第一把剑。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "遗忘英雄之剑"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这是一把巨大的剑。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我看得越多，对羽族的了解就越多。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "*兴奋* 对对对对对，这是最棒棒棒的！！！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "自豪。 我们的匕首展示出更卓越的工艺。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "似乎有用这种武器进行的某种比赛。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这种务实的制作符合我的品位。"
+  }
+]

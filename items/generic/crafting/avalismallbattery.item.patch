@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "虽然制造技术繁复精密，但它不能反复充电。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "一次性电池"
+  }
+]

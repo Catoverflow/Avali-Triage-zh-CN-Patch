@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "超级沉的帐篷梁。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "大帐篷杆"
+  }
+]

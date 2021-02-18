@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "现在你的玻璃可以朝同一个方向排列了，就像象棋里的王后...象棋是什么？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "斜面气凝胶玻璃"
+  }
+]

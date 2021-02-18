@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "暗黑金属面板，带有斜面！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "有斜面的暗黑金属面板"
+  }
+]

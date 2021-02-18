@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一个头盔，仿照传奇的狂风小队制造。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "龙头盔"
+  }
+]

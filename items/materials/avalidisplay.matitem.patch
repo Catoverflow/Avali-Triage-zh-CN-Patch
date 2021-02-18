@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这种LED显示屏可以非常方便的粘贴在任何物体的表面。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "LED显示屏"
+  }
+]

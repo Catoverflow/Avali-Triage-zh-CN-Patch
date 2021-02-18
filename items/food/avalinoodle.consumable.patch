@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "由苉茹叶淀粉制成的甜面条，羽族学生的主食。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "苉茹面"
+  }
+]

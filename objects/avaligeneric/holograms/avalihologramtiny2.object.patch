@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这个全息图内一直闪烁着某些提示，应该属于警报系统。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "全息警报图"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "除非羽族养有某种带有明亮条纹的食草动物，要不然我会打赌这肯定是一个警告。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "它似乎就是设计来吸引注意力的。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "猿人们曾经抓过叶族人。关我们的笼子上也有这一样的标标标记，是不是这意味着‘叶族人来过这里’？"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "解析。 这可能是某种危险的警告。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "无论在哪里，一眼就能看出这意味这警告。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "让我想起了海鞘，它们真是有趣的宠物，所以这表示安全？"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一个警报提示...可能只是系统中的一个配置文件缺少逗号引起的。"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个光滑的数据接口。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族终端"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "我不知道这是什么种类的处理器。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这让我想起了观星使用的电脑。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "开关开开开，开关关。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "恐怖。 我要让这位兄弟和我一样的摆脱掉奴隶的地位！"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "全息屏幕的确是好的设计，但你在需要点最上方的选项时必须要借助某种工具，因为这样才不会使你的手腕疼痛。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "这不是盐渍苹果MAC。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这样的控制台可以根据扫描物是否生物来判断处理方式。 它可以通过内部神经信号端发射电波。"
+  }
+]

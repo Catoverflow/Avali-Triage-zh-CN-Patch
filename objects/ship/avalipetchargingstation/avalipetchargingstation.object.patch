@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这个充电桩可以对清扫无人机的电池进行热插拔或充能。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "清扫无人机充电桩"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "科技发展部也用类似的机器给无人机充电。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "能给无人机充电，但是电池能用多久呢？"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族觉得这样喂宠宠物有点怪。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "诱人。这个可以给那小小的扫地机充电么？"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "地球上有类似的可充电吸尘器，不过不如这个精巧。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "传送感觉像从山巅跃入海中。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "什么奇怪的宠物会用得上它呢？"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "灯"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "船灯"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这种灯一般用于飞船。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "灯"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "亮亮的灯！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "分析。这灯看起来暖意融融。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "暖色调的灯"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "通用的灯"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "欺骗爬虫睡在悬浮在空中。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "吊床"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "在反叛军的船上睡过类似的，毫不奢华的床。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "一个挂着的鸟巢，这想法太有趣了！"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这个床在试图逃逃逃离叶族！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "关心。 床表现出较低的结构完整性。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我想在热带星球的一对棕榈树之间用这个。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我可不愿意死在这种床上。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "可以用，但是我宁可睡在一堆枕头里。"
+  }
+]

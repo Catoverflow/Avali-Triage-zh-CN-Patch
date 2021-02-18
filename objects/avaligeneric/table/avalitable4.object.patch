@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个较低的大桌子。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "羽族餐桌"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这不是科技发展部为我们提供的标准办公桌。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "只能跪着的桌子，反正我是钻不进去。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "这这这张床很傻傻傻，它它它看起来像桌子一样硬。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "如释重负。连仆人都不会在这种桌子上吃饭。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "让我想起了传统的鲛人桌子，它们都要跪着。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我想羽族吃饭的时候是跪着的吧，我理解了。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "普通的桌子都是比较高的，它却与众不同，但是却很舒服。"
+  }
+]

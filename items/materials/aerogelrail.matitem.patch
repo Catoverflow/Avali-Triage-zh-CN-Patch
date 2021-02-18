@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "强化过的轨道"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "气凝胶轨道"
+  }
+]

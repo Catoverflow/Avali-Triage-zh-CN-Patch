@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "插入羽族装备的耐钢插板。(将这个装在装备槽，饰品装在饰品槽。)"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "耐钢上衣插板"
+  }
+]

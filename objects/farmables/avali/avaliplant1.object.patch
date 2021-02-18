@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "地下黏菌的子实体。它已经开始散发孢子了。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "奇力果"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这让我想起了草莓蛋奶昔。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "就算我想吃，用喙也很不方便。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "让叶族人想起了死死死死死死死对头！"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "沉思。这是一个基于百万的微生物的文明，每一口都是屠杀。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "像有点历史的学校食堂晚餐。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "别告诉我这是某种外星奇异生物的佳肴"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "在阿瓦隆，大部分的菌落出现在地下。找到它们意味着一顿饱餐。"
+  }
+]

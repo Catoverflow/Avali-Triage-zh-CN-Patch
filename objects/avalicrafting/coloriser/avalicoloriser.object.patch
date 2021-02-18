@@ -1,0 +1,53 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "专用于大量上色的特制上色器。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "^orange;羽族上色器^white;"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "在仔细检查之后我确信这个精巧的装置可以给家具上色。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这个机器的颜色好漂亮！"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "浮动、多彩、实用"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。用预制的纳米混合颜料可以让这个上色机的效率提升900%。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "传送就是一阵猛冲。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "看到这个机器上色的过程，我在想这能否配得上我们的艺术。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "看起来是一种自动上色机器，好好玩。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "刷子用涂料给物品上色，而这个机器用纳米色素来做。"
+  }
+]
+

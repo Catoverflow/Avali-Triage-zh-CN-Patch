@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这种卵状物，能够发出生物冷光，能长成一大片"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "纳克蒂茎"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "它为什么会发出生物冷光呢？"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "可以用来建一个有趣的窝。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人也也也想黑暗中发光。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "关心。它被辐射照过吗？"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "把它卷成一个环，就是疯子的围领。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "像鲛人的城市一样发光！"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "由共生的微生物中发出的冷光。"
+  }
+]

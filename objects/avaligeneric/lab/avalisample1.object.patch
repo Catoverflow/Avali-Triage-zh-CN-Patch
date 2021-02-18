@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个空的实验室用容器，可以...把实验室的材料装起来。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "空标本瓶"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "这是一个空的瓶子，充满了防止腐烂的液体。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我不知道应不应该把我产的卵放在这里。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "脏水水水，不能喝。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "观察。 里面是甲醛，用于保存有机物。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "看起来更像家里实验室瓶子的多色版"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "嗯，这颜色真是令人愉悦。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "普通的瓶子，普通的甲醛，真是无聊。"
+  }
+]

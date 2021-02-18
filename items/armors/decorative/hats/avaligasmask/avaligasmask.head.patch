@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "用来滤过空气中有毒物质的老旧装置，可惜已经坏掉了。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "防毒面具（Avali）"
+  }
+]

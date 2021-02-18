@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "绣着花的整齐挂毯，挂在墙上营造氛围简直完美。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "软挂毯"
+  }
+]

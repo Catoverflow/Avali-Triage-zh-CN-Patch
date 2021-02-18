@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 在探险家之中流行的轻便耳麦HUD。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "侦查型HUD"
+  }
+]

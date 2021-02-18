@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "为强光减少射程而感到烦躁？试试这款狙击镜。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "狙击镜"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是地下黏菌的子实体...也许味道不错，我猜的。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "芨荔果"
+  }
+]

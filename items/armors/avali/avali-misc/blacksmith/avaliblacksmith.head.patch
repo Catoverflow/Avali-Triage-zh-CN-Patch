@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "羽毛的香气"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "锻造头盔"
+  }
+]

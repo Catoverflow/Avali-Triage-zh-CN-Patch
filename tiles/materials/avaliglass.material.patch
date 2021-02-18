@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "LED显示屏"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个LED显示屏，正在静静地工作。"
+  }
+]

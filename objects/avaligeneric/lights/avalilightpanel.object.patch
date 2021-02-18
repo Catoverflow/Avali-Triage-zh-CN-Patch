@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个可照明的墙板。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "面板灯"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "只不过是一个发光的气凝胶板。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "必须...远离一点....看...。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族人认为这种光光光不是阳光。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "斟酌。 为什么以听觉为主的羽族还需要如此强烈的照明？"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "这灯闪得让我头疼..."
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "烦人又实用的照明。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这是一个发光面板...你还需要什么其他介绍？"
+  }
+]

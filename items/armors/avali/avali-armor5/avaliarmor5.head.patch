@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "^green;羽族，头部饰品槽^white; 锃亮圆滑的战术头盔。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "战术型头盔"
+  }
+]

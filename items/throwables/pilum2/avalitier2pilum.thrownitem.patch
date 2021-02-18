@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "一个精制的狩猎长矛。内置的微引擎在矛刚出手时便会启动，从而加速长矛的飞行，使矛穿透得更深。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "P-2 破雹"
+  }
+]

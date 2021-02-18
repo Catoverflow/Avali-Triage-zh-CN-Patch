@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "羽族会用自己的羽毛填满这些枕头吗？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "枕头"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "其他床上用品在哪里？"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "我需要更多这些东西来做一个巢。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "叶族听说人类喜欢用这个打架，但是哪头比较尖尖尖锐？"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "不确定。 这是用来坐的还是用来睡觉的？"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "不盖被子我会冻死。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我觉得我遇到了一个可怕的错误，我似乎只收到了一半的被褥。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "羽族的生活空间和温暖，你可以随意的抱着你的包睡在地板上。"
+  }
+]

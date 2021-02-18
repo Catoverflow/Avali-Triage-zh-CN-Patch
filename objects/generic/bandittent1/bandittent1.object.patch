@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "标准的帐篷。当心太空熊！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "基本帐篷"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "简单的帐篷。挺好的。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "临时的鸟窝。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "小小小黑屋子。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "生气。太小了我进不去。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我小的时候很爱露营。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "睡在帐篷里并不使我感到高兴。"
+  }
+]

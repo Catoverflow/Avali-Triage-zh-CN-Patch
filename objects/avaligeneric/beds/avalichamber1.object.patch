@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "睡在舱里，欺骗那些讨厌的小爬虫。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "睡眠舱"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "看起来和守护团的床有点像。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "箱子里的床？呃...听起来不舒服。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "哈哈，堡垒一样样样的床。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "担心。它可能把我反锁在里面。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "似曾相识，这床给了我一种既视感。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "不，我才不会在这样的床上被抓住然后死掉。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "我觉得海星。"
+  }
+]

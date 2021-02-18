@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一种标准的椅子，适合放在书桌前。"
+  },
+  {
+  "path": "/shortdescription",
+  "op": "replace",
+  "value": "羽族办公椅"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "所有的羽族椅子都是运用了磁悬浮科技？"
+  },
+  {
+  "path": "/avianDescription",
+  "op": "replace",
+  "value": "看，后面有一个位置可以确保羽族的尾巴不被夹到。想得真周到！"
+  },
+  {
+  "path": "/floranDescription",
+  "op": "replace",
+  "value": "这上面没有刺，叶族人不喜欢。"
+  },
+  {
+  "path": "/glitchDescription",
+  "op": "replace",
+  "value": "惶恐。 当我坐在上面时，它一直摇来摇去。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "坐起来不太舒服，但是我觉得我还可以忍受。"
+  },
+  {
+  "path": "/hylotlDescription",
+  "op": "replace",
+  "value": "坐起来优雅，不舒服，但是只有优雅就足够了。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "坐在上面旋转是相当有趣的！"
+  }
+]

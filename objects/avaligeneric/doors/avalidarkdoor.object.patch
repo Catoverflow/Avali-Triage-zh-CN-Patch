@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "这是一个简单而复杂的工业门。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "带锁的门"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "实用又有效。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "看上去好像有些不详。"
+  },
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "黑色的金属门，到底对叶族人隐藏藏藏了什么秘密？"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "无聊。 这是一扇门，我这是又多无聊才会去检查它。"
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "为什么其他种族的门就没有如此复杂？"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "显然，是的。他们做出了更令人讨厌的东西。"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "这扇门可能但凭肉眼望去的确无聊，但如果你穿戴上增强现实的设备将会让你大吃一惊。"
+  }
+]

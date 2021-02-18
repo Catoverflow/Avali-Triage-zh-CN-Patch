@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "气凝胶是一种笼状高分子化合物，有着广泛用途的同时轻若无物。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "气凝胶"
+  }
+]

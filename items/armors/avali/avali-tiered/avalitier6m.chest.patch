@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "插入羽族装备的日耀菲洛插板。(将这个装在装备槽，饰品装在饰品槽。)"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "日耀菲洛上衣插板"
+  }
+]

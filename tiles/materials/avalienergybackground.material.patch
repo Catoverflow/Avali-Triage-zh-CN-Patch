@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "能量场面板"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "能量场，空气从这里涌入。"
+  },
+  {
+    "path": "/novakidDescription",
+    "op": "replace",
+    "value": "好看的木格窗。"
+  }
+]

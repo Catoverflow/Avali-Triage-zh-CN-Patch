@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "有个工程师说：‘这是游戏特性’，呃"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "采矿头盔（Avali）"
+  }
+]

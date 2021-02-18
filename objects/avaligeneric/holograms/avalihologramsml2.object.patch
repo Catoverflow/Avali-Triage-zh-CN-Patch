@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/floranDescription",
+    "op": "replace",
+    "value": "<跟随这条状图形打着节拍>"
+  },
+  {
+    "path": "/apexDescription",
+    "op": "replace",
+    "value": "嗯，这些以不规则脉冲方式移动的图形。这里面很可能有秘密。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "value": "条形全息图"
+  },
+  {
+    "path": "/avaliDescription",
+    "op": "replace",
+    "value": "嗯...有人打开了他们的音乐播放器，但却在这个MFD窗格中静音了..."
+  },
+  {
+    "path": "/humanDescription",
+    "op": "replace",
+    "value": "我最好别碰，这看起来非常重要。"
+  },
+  {
+    "path": "/hylotlDescription",
+    "op": "replace",
+    "value": "我要离这些专业设备远点，这看上去不好玩。"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "value": "在这个全息图内显示的是一些正在移动的条形图形。"
+  },
+  {
+    "path": "/avianDescription",
+    "op": "replace",
+    "value": "这些图形有着一种我很熟悉的运动方式，但我不可能再把我的羽毛放在上面。"
+  },
+  {
+    "path": "/glitchDescription",
+    "op": "replace",
+    "value": "分析。 这上面的显示很可能是因故障而导致的错误输出，因为极其地不规则。"
+  }
+]

@@ -1,2 +1,3 @@
 [{"op": "replace","path": "/charCreationTooltip/title","value": "羽族"},
-{"op": "replace","path": "/charCreationTooltip/description","value": "聪颖、小而毛绒绒的太空游猎种族，长着四只耳朵。以狩猎和音乐著称，同时也可以吸。"}]
+{"op": "replace","path": "/charCreationTooltip/description","value": "聪颖、小而毛绒绒的太空游猎种族，长着四只耳朵。以狩猎和音乐著称，十分可爱。"},
+{"op": "replace","path": "/charGenTextLabels","value":["绒毛颜色","翅膀","袖子","外套","饰品颜色","羽毛颜色","袖子颜色","外套颜色","羽族","人物性格"]}]

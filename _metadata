@@ -1,11 +1,11 @@
 {
   "author" : "Catoverflow",
-  "description" : "[h1]重要提示[/h1]\n在某次更新后 Avali Triage 整合了对原版物品的描述，请临时安装[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1531506433]羽族中文语言包[/url]以补充翻译，相关整合正在进行中，完成后将会并入本补丁\n[h1]简介-Intro[/h1]\n这是Avali Triage的汉化补丁\nA Chinese patch of Avali Triage.\n*请安装中文字体\n\n[h1]相关链接-Links[/h1]\n[url=https://steamcommunity.com/groups/zh-avali]汉化组[/url]\n[url=https://pan.baidu.com/s/1eiMPetavbkSkBzi99uYz7Q]源码[/url]\n[url=zh.avali.wikia.com]羽族中文百科[/url]\n\n[h1]致谢-Credits[/h1]\nTigrexΩ LatteMint ZY10086 lyy00054（译者，顺序不计）\nProjectSky - FU汉化补丁作者，提供了不少译文\nFevix - Who maintains the Avali Triage mod.\n\n[h1]已知问题-Problems[/h1]\n水平有限，部分译文可能不够准确\n因为是多人合作，文风可能不一致（将在稍后的更新中重新校对）\n\n\n[h1]常见问题-FAQs[/h1]\n1.Q：Avali/羽族是什么\nA：羽族介绍详见百科\n\n2.Q：怎么使用？\nA：订阅，记得订阅前置的 mod（Avali Triage等），然后安装一下中文字体（例如星核汉化组提供的[url=https://github.com/sffxzzp/Starbound-Chinese/releases/download/StarCore-Font/StarCore.pak]字体[/url]）\n\n3.Q：好像有没译的地方\nA：请给出游戏截图，我们会进行检查\n本补丁提供的翻译仅限于羽族物品、羽族相关对话（含一部分创意工坊种族），并未提供其他 mod 的译文。\n\n[h1]其他[/h1]\nImage from [url=avali.wikia.com]Avali Wiki[/url]\nGithub repo at https://github.com/Catoverflow/Avali-Triage-zh-CN-Patch",
+  "description" : "[h1]简介-Intro[/h1]\n这是Avali Triage的汉化补丁\nA Chinese patch of Avali Triage.\n*请安装中文字体\n\n[h1]相关链接-Links[/h1]\n[url=https://steamcommunity.com/groups/zh-avali]汉化组[/url]\n[url=https://pan.baidu.com/s/1eiMPetavbkSkBzi99uYz7Q]源码[/url]\n[url=zh.avali.wikia.com]羽族中文百科[/url]\n\n[h1]致谢-Credits[/h1]\nTigrexΩ LatteMint ZY10086 lyy00054（译者，顺序不计）\nProjectSky - FU汉化补丁作者，提供了不少译文\nFevix - Who maintains the Avali Triage mod.\n\n[h1]已知问题-Problems[/h1]\n水平有限，部分译文可能不够准确\n因为是多人合作，文风可能不一致（将在稍后的更新中重新校对）\n\n\n[h1]常见问题-FAQs[/h1]\n1.Q：Avali/羽族是什么\nA：羽族介绍详见百科\n\n2.Q：怎么使用？\nA：订阅，记得订阅前置的 mod（Avali Triage等），然后安装一下中文字体（例如星核汉化组提供的[url=https://github.com/sffxzzp/Starbound-Chinese/releases/download/StarCore-Font/StarCore.pak]字体[/url]）\n\n3.Q：好像有没译的地方\nA：请给出游戏截图，我们会进行检查\n本补丁提供的翻译仅限于羽族物品、羽族相关对话（含一部分创意工坊种族），并未提供其他 mod 的译文。\n\n[h1]其他[/h1]\nImage from [url=avali.wikia.com]Avali Wiki[/url]\nGithub repo at https://github.com/Catoverflow/Avali-Triage-zh-CN-Patch",
   "friendlyName" : "羽族中文 Avali in zh.",
   "link" : "steam://url/CommunityFilePage/1376000397",
   "name" : "羽族中文",
   "priority" : 10000,
   "steamContentId" : "1376000397",
   "tags" : "Species",
-  "version" : "1.1.1"
+  "version" : "1.1.2"
 }
